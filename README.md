@@ -5,11 +5,9 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF94C4&center=true&repeat=false&width=435&height=40&lines=A+Passionate+Learner+from+Nepal+" alt="Typing SVG" /></a></h3>
 <img height=320 align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [http://localhost:5173/](http://localhost:5173/)
+- 👨‍💻 All of my projects are available at [https://supresh.com.np/)
 
 - 📫 How to reach me **supresh02@gmail.com**
-
-- 📄 Know about my experiences [http://localhost:5173/](http://localhost:5173/)
 
 - ⚡ Fun fact **I think i am funny**
 
